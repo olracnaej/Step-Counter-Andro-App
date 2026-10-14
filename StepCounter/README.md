@@ -12,3 +12,8 @@ Open this folder in Android Studio (File > Open). Let it sync; it generates the 
 - [ ] Step 2: service architecture
 - [ ] Step 3: data pipeline
 - [ ] Step 4: UI binding
+
+
+git add .
+git commit -m "Explicación de los nuevos cambios"
+git push
