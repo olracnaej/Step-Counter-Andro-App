@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.StepCounter" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#4FD1C5</item>
+        <item name="colorOnPrimary">#00201D</item>
+        <item name="colorSurface">#161B22</item>
+        <item name="android:colorBackground">#0D1117</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
